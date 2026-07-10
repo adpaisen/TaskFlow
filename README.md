@@ -101,7 +101,3 @@ The application was tested with:
 - Add search functionality
 - Add a graphical user interface (GUI)
 - Replace JSON storage with a database
-
-## Author 👨‍💻
-
-Created by AD
